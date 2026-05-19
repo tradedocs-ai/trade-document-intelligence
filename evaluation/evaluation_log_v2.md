@@ -208,3 +208,26 @@
 *Evaluation log version: 2*
 *Last updated: April 18, 2026*
 *Next update: after Hugging Face deployment and prompt iteration*
+
+### Document 011 — EXP-GT-2026-00334
+- Route: Guatemala → El Salvador
+- Industry: Agricultural Products
+- Language: Bilingual Spanish/English mixed labels
+- Format: Complex 3-column layout, road freight
+- Score: 10/10 — 100% ✅
+
+### Document 012 — PRX-2026-04478
+- Route: Taiwan → El Salvador
+- Industry: Electronics / IT Equipment
+- Language: English (fax/typewriter simulation)
+- Format: Courier font, fax header, rubber stamp
+- Score: 10/10 — 100% ✅
+
+## Accuracy Floor Test
+| Document type | Accuracy |
+|---|---|
+| Clean PDF English | 100% |
+| Bilingual Spanish/English | 100% |
+| Complex mixed format | 100% |
+| Fax/scan simulation | 100% |
+| **Overall: 50/50** | **100%** |
