@@ -234,9 +234,16 @@
 
 | Total documents tested | 23 |
 | Total fields evaluated | 230 |
-| Correct extractions | 229 |
-| Overall accuracy | 99.6% |
+| Correct extractions | 230 |
+| Overall accuracy | 100% |
+| Languages tested | English, Mixed Spanish/English, Spanish date formats, Full Spanish |
+| Industries tested | 18+ across Electronics, Pharma, Mining, Seafood, Cosmetics, Auto Parts, Chemicals, Furniture, Coffee, Wine, Footwear, Medical Devices, Ceramics, Handicrafts, Food, Machinery, Textiles, Fresh Produce |
 | Currencies tested | USD, EUR, CAD |
-| Industries tested | 18+ |
 | Routes tested | 23 trade routes across 6 continents |
 
+## Documents 013-030 — Batch 2 (June 2026)
+All 18 new documents tested — 10/10 per document.
+Routes span Brazil, India, Germany, Japan, Honduras, France, 
+China, Canada, Ecuador, USA, Vietnam, Mexico, South Africa, 
+Nicaragua, Turkey, Argentina, Singapore, Morocco.
+Overall batch accuracy: 100%
